@@ -1,4 +1,4 @@
-# ୨୧ Hola, Soy Reyna Diaz! ♡
+# ୨୧ ¡Hola, Soy Reyna Diaz! ♡
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDE8&height=120&section=header&text=Reyna's%20Corner&fontSize=35&fontColor=8D6376" />
