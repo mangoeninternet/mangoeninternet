@@ -1,7 +1,7 @@
 # ୨୧ ¡Hola, Soy Reyna Diaz! ♡
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDE8&height=120&section=header&text=Reyna's%20Corner&fontSize=35&fontColor=8D6376" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDE8&height=120&section=header&text=꒰ა%20Mi%20Presentacion%20Estudiantil%20໒꒱&fontSize=25&fontColor=8D6376" />
 </p>
 
 - 👩‍💻 Soy estudiante de **Informatica** en CONALEP Tijuana 2, por eso estoy obligada a escribir
