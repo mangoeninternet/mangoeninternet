@@ -1,4 +1,4 @@
-# ୨୧ ¡Hola, Soy Reyna Diaz! ♡
+# ¡Hola, Soy Reyna! ♡
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=F8DDE8&height=120&section=header&text=꒰ა%20Mi%20Presentacion%20Estudiantil%20໒꒱&fontSize=25&fontColor=8D6376" />
@@ -10,7 +10,7 @@
 
 ### 👩‍💻 Sobre mi:
 Soy estudiante de **Informatica** en CONALEP Tijuana 2, por eso estoy obligada a escribir
-esta informacion si quiero pasar mi materia de Documentos Digitales Avanzados, ¡Yupi!.
+esta informacion si quiero pasar mi materia de Documentos Digitales Avanzados.
 
 ### Actualmente estoy aprendiendo:
 - 📄 Elaboración y edición de documentos digitales.
